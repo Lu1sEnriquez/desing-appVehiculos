@@ -1,0 +1,22 @@
+
+
+
+   Azul-oscuro  #0C3C59
+
+    Azul-claro  #3CAACB	
+
+Amarillo-verde  #D9D04E
+
+ Amarillo-cafe  #D9C873
+
+      rojo-rosa #F2444
+		
+    gris-oscuro #5A5C5A
+
+
+
+azul oscuro #0B3C65
+azul marino #0A4B73
+azul normal #026AB1
+azul claro  #A0D3F2
+blanco      #F2F2F2
